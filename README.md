@@ -51,7 +51,7 @@ git clone https://github.com/coolprasad15/laravel_crud.git
 ### 2. Navigate to project folder
 
 ```
-cd your-repo-name
+cd laravel_crud
 ```
 
 ### 3. Install dependencies
