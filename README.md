@@ -72,7 +72,7 @@ php artisan key:generate
 Update `.env` file with your database credentials:
 
 ```
-DB_DATABASE=example_app
+DB_DATABASE=laravel_crud
 DB_USERNAME=root
 DB_PASSWORD=
 ```
