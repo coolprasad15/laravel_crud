@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# laravel_crud
+This is a simple CRUD (Create, Read, Update, Delete) application built using the Laravel framework. The project demonstrates basic operations for managing data with a clean MVC architecture, making it ideal for beginners learning Laravel development.
+>>>>>>> d337317da1f307694dc556af050a8c0fc69f204e
